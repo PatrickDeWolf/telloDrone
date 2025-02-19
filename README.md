@@ -7,4 +7,7 @@ stijgt op<br>
 200cm voorwaards<br>
 land<br><br><br>
 
+<b>commando.py</b><br>
+alle commando's die mogelijk zijn
+
 
